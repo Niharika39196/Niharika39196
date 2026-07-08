@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Niharika Thakur 👋</h1>
-<h3 align="center">Backend Developer | CSE Student @ VIT Bhopal | Building things that work</h3>
+<h3 align="center">Full Stack Developer with AI Integration | CSE Student @ VIT Bhopal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+FastAPI+%2B+Python;Building+scalable+APIs+%26+pipelines;SIH+2025+Top+45+%7C+MERN+Matrix+Core+Member;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+AI+Integration;Building+scalable+apps+%26+intelligent+pipelines;SIH+2025+Top+45+%7C+MERN+Matrix+Core+Member;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 💼 Recently completed a **backend development internship** at **HPNLU Shimla** (Legal Innovation & Incubation Center), building an AI-powered mediation platform
 - 🏆 **Top 45** at **Smart India Hackathon (SIH) 2025**
 - 🧩 Core Member of **MERN Matrix Club**, VIT Bhopal
-- 🔭 Currently building portfolio projects around AI-assisted tooling and full-stack apps
+- 🔭 Currently building full-stack projects with AI-powered features baked in
 - 🌱 Sharpening DSA, system design, and backend architecture skills
 - 📫 Reach me at **nihathakur001@gmail.com**
 
@@ -22,17 +22,18 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
